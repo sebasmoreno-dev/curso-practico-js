@@ -25,7 +25,6 @@ function calcularMediana(lista) {
         } else {
             return false;
         }
-
     }
 
     let mediana;
